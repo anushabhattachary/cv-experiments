@@ -1,0 +1,6 @@
+path: ./fairface_yolo
+train: images/train
+val: images/val
+
+nc: 6
+names: ['male', 'female', 'asian', 'black', 'white', 'hispanic']
